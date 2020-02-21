@@ -13,17 +13,12 @@ const description_html = '<div id="main_info">\
     <div class="myInfo">Age : 27</div>\
     <div class="myInfo">Related Experience : </div>' + 
     '<div class="myInfo">19-01 ~ 19-07 KH 정보교육원 JAVA & SPRING 웹/앱 개발자 과정 수료</div>\
-    <div class="myInfo">Related Certificate: </div>\
-    <div class="myInfo">1. 정보처리기능사</div>'  + 
-    '<div class="myInfo">2. SQLD... 한문제차이 낙방 재시험 예정</div>\
-    </div>\
     </div>';
 
 const comment_html = '<div id="mydesc">\
-<p>"항상 어린아이 같이"</p>\
 <p>비록 늦은 나이에 개발에 발 디뎠지만, 누구보다 새로운 기술과 지식에 어린아이처럼 호기심이 왕성한 개발자입니다.</p>\
 <p>지금과 같이 은퇴할 때까지 항상 개발에 대한 흥미와 열정이 식지 않는 것이 저의 목표입니다.</p>\
-<p>어제보단 오늘이, 오늘보단 내일이 기대되는 어린아이같이 하루가 다르게 성장하는 개발자가 되려고 노력하고 있습니다.</p>\
+<p>어제보단 오늘이, 오늘보단 내일  성장하는 개발자가 되려고 노력하고 있습니다.</p>\
 <p>하지만 아직 부족한 점이 많습니다. 훌륭한 선배님들과 많은 것을 배우며 소통할 수 있는 회사를 기다리고 있습니다.</p>\
 <p>많은 연락 바랍니다!</p>\
 </div>';
