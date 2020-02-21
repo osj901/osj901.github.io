@@ -1,0 +1,27 @@
+<div class="user-details">
+  <h1> Featured Projects </h1>
+
+  {% for post in site.posts %}
+<div class="user-projects">
+    <div class="images-right">
+      <img alt="thumbnail_img" src="{{ post.thumbnail | prepend: site.url }}" class="thumbnail"/>
+    </div>
+    <div class="pcontents">
+      <h3> {{post.title}} </h3>
+      <ul>
+        <li> {{post.skills}}</li>
+      </ul>
+      <p>{{post.description}}</p>
+      <a class="project-link" href="{{post.href}}"> 상세 보기</a>
+      
+    </div>
+</div>
+{% endfor %}
+  
+</div> 
+
+
+
+ 
+ 
+
