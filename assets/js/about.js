@@ -7,7 +7,7 @@ const DIV_DESC = "div_des";
 const DIV_COMMENT = "div_com"
 
 const description_html = '<div id="main_info">\
-    <img src="./assets/img/33.jpg" id="profile">\
+    <img src="./assets/img/33.png" id="profile">\
     <div id="aboutsj" style="text-align: left">\
     <div class="myInfo">Name : 박세진</div>\
     <div class="myInfo">Age : 27</div>\
