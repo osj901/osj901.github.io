@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Team Project/ Crowd Funding site"
+title:  "Team Project/ Crowd Funding Service"
 author: sejun
 href: "https://github.com/KangKuiJeong/RewardBook"
 thumbnail: "/assets/img/reward_book.png"
