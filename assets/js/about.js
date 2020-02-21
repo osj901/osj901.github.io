@@ -12,7 +12,7 @@ const description_html = '<div id="main_info">\
     <div class="myInfo">Name : 박세진</div>\
     <div class="myInfo">Age : 27</div>\
     <div class="myInfo">Related Experience : </div>' + 
-    '<div class="myInfo">19-01 ~ 19-07 KH 정보교육원 JAVA & SPRING 웹/앱 개발자 과정 수료</div>\
+    '<div class="myInfo">19-01 ~ 19-07 KH 정보교육원 UIUX엔지니어링 및 응용SW엔지니어링 과정 수료</div>\
     </div>';
 
 const comment_html = '<div id="mydesc">\
