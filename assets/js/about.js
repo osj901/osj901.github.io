@@ -9,7 +9,7 @@ const DIV_COMMENT = "div_com"
 const description_html = '<div id="main_info">\
     <img src="./assets/img/33.png" id="profile">\
     <div id="aboutsj" style="text-align: left">\
-    <div class="myInfo">Name : </div>\
+    <div class="myInfo">Name : 오세준</div>\
     <div class="myInfo">Age : 27</div>\
     <div class="myInfo">Related Experience : </div>' + 
     '<div class="myInfo">19-01 ~ 19-07 KH 정보교육원 UIUX엔지니어링 및 응용SW엔지니어링 과정 수료</div>\
